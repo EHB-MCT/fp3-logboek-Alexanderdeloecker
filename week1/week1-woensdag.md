@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[14/01/2025]`  
+**Datum:** `[15/01/2025]`  
 **Studentnaam:** `[Alexander De Loecker]`  
 **Groepsnaam:** `[A2]`
 
@@ -8,22 +8,16 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
--scrum boart aangevuld
--moodboard gemaakt
--idee verder uitgewerkt
+-brainstorm
+-concept uitgedacht
+-wire frame ontworpen
+-moodboard besproken
 -daily scrum
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-Dat er geen grenzen zijn bij FP3
-
-> **Nieuwe skills:**  
-> /
-
----
+Om te anticiperen op de feedback van de leerkrachten
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-Ik voel me goed in het team er hangt een goede sfeer :) :smiley:
-
----
+goed teamwork. Goed werk tempo. Blij :)
