@@ -8,12 +8,14 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
--scrum borard gemaakt (met het gehele team)
 -brainstormd (met heel het team)
 -Daily scrum (met heel het team)
 -design system gemaakt
--design system geimplementeerd op paginas
--usertest script gemaakt
+-Design puntjes op de I
+-code paginas verder verbeteren met html en css
+-design kinderen maken
+-conclusies usertest uitwerken
+
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
