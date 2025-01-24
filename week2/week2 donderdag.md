@@ -16,18 +16,10 @@
 -design kinderen maken
 -conclusies usertest uitwerken
 
-
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-wat een contrast checker is
-
-> **Nieuwe skills:**  
-> contrast checker
-
----
+een usertest doen en opbouwen
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-goed teamwork goed samengewerkt
-
----
+goed door gewerkt

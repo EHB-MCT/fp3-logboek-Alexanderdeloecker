@@ -17,15 +17,10 @@
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-wat een contrast checker is
-
-> **Nieuwe skills:**  
-> contrast checker
-
----
+hoe onze jongste doelgroep denkt en taal gebruikt.
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-goed teamwork goed samengewerkt
+pretig gevoel goede groep
 
 ---
