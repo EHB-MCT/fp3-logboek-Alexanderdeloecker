@@ -8,21 +8,17 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
--scrum borard gemaakt (met het gehele team)
 -brainstormd (met heel het team)
 -Daily scrum (met heel het team)
--design system gemaakt
--design system geimplementeerd op paginas
--usertest script gemaakt
+-css aangepast van de gehele website
+-backbuttens aangepast op de gehele website
+-responsif design gemaakt voor de gehele website
+-
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-wat een contrast checker is
+Hoe ik goed met @media werk om een maximume breete aan de schermen te kunnen geven een een responsif design te maken.
 
-> **Nieuwe skills:**  
-> contrast checker
-
----
 
 ## 3) Wat is mijn gevoel over vandaag?
 

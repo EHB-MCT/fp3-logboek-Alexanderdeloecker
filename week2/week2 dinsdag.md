@@ -8,7 +8,7 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
--scrum borard gemaakt (met het gehele team)
+-scrum board gemaakt (met het gehele team)
 -brainstormd (met heel het team)
 -Daily scrum (met heel het team)
 -design system gemaakt
