@@ -4,23 +4,20 @@
 **Studentnaam:** `[Alexander De Loecker]`  
 **Groepsnaam:** `[A2]`
 
----
+
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
--brainstormd (met heel het team)
--Daily scrum (met heel het team)
--design system gemaakt
--Design afgewerkt
--begin code alle paginas
--stylgids opbouwen in code
+- Daily scrum (met heel het team)
+- childpaginas basis van afgewerkt
+- css aangepast en proper gemaakt
+- Poster gemaakt
+- kleine aanpassigen aan de site om de look en feel te verbeteren
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-hoe onze jongste doelgroep denkt en taal gebruikt.
+Hoe ik makelijk een database kan linken voor mijn code
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-pretig gevoel goede groep
-
----
+goed doorgewerkt puntjes op de I aan het zetten dus goed
